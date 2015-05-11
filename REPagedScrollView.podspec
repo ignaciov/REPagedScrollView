@@ -4,8 +4,8 @@ Pod::Spec.new do |s|
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
   s.homepage    = 'https://github.com/romaonthego/REPagedScrollView'
   s.summary     = 'Paged UIScrollView with an embedded UIPageControl.'
-  s.source      = { :git => 'https://github.com/romaonthego/REPagedScrollView.git',
-                    :tag => '1.0' }
+  s.source      = { :git => 'https://github.com/ignaciov/REPagedScrollView.git',
+                    :tag => '1.0-internal' }
   s.license     = { :type => "MIT", :file => "LICENSE" }
 
   s.platform = :ios, '5.0'
