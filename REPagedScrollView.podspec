@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name        = 'REPagedScrollView'
-  s.version     = '1.0'
+  s.version     = '1.0-internal'
   s.authors     = { 'Roman Efimov' => 'romefimov@gmail.com' }
   s.homepage    = 'https://github.com/romaonthego/REPagedScrollView'
   s.summary     = 'Paged UIScrollView with an embedded UIPageControl.'
